@@ -1,18 +1,14 @@
-# techflow-nutri-app
-
 # TechFlow Nutri App
 
-SaaS web para nutricionistas: cadastro de pacientes, anamnese, plano alimentar, diário (texto/foto) e relatórios em PDF.
+Aplicação web para nutricionistas, feita em **React.js**.
 
-## Stack
-- React + React Router + Tailwind
-- React Query (cache de dados)
-- (Backend) Supabase: Auth, Postgres, Storage
-- Deploy: Vercel
+## 🚀 Tecnologias
+- React.js
+- Node.js
+- Vercel (deploy)
+- Supabase (backend e banco de dados)
 
-## Scripts
-```bash
-npm i
-npm run dev     # desenvolvimento
-npm run build   # build de produção
-npm run preview # serve build localmente
+## 📌 Como rodar o projeto
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/techflow-nutri-app.git
